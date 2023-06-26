@@ -13,5 +13,5 @@ This is how you do this:-
   classifier = pipeline('text-classification', model=model_id)
 ```
 
-Or you can download the file and run the ``` predict() ``` function at the end.
+Or you can download the file and run only the ``` predict() ``` function at the end.
 
