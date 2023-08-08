@@ -15,3 +15,5 @@ This is how you do this:-
 
 Or you can download the file and run only the ``` predict() ``` function at the end.
 
+## Evaluation
+![download](https://github.com/Ronit33/emotion-prediction/assets/87173312/fa0a1c85-e93a-4924-aa34-e016ac64fe53)
